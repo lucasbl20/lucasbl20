@@ -26,4 +26,5 @@
 <img align="center" alt"AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
 </div> </br>
 Desenvolvendo e pensando em mudar o mundo ! ⭐🌍🌍
-https://pin.it/1CBp4IOFL
+
+![departure!](https://github.com/user-attachments/assets/b231dec1-18b1-4ec2-ad44-54ad9758e511)
