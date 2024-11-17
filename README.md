@@ -27,4 +27,6 @@
 </div> </br>
 Desenvolvendo e pensando em mudar o mundo ! ⭐🌍🌍 </br>
 
+
+
 ![departure!](https://github.com/user-attachments/assets/b231dec1-18b1-4ec2-ad44-54ad9758e511)
