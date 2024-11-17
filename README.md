@@ -26,3 +26,4 @@
 <img align="center" alt"AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
 </div> </br>
 Desenvolvendo e pensando em mudar o mundo ! ⭐🌍🌍
+<img src="https://pin.it/1CBp4IOFL" alt="Yuji">
